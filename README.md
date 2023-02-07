@@ -22,9 +22,9 @@ You can play with the keyboard (tested on Linux and Windows) with 'python pyrat.
 
 3. For instance, to compare the final algorithm of Virgile with a greedy algorithm, write in a terminal: 
 python pyrat.py --rat AIs/slightly_better_than_greedy.py --python AIs/greedy.py
-//
+\
 or
-//
+\
 python pyrat.py --rat AIs/beat_greedy.py --python AIs/greedy.py
 
 # Install
